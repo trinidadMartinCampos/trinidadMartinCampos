@@ -2,5 +2,4 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner and bioinformatician
  
-
-[![Linkedin: trinidadMC](www.linkedin.com/in/trinidadmartincampos)
+[![Linkedin: trinidadMC](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](www.linkedin.com/in/trinidadmartincampos)
