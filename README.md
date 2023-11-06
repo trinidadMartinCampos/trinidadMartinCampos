@@ -20,7 +20,6 @@ A polyglot 👅 engineer with a panoramic perspective and a documented ability t
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=blue)
-![Nextflow](http://img.shields.io/badge/-Nextflow-000000?style=for-the-badge&logo=nextflow)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 
@@ -28,5 +27,5 @@ A polyglot 👅 engineer with a panoramic perspective and a documented ability t
 - 🌱 Learning more about: **Machine Learning** and **German**
 - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
 - ❤️ Interests: Foodie 🍉 | Triathlon 🏊🏻🚴🏻‍♂️🏃🏻‍♀️ | Books 📚 | Music 🎧
-- 😄 Passionate about team spirit
+- 😄 Passionate about team spirit 💪🏼
 
