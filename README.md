@@ -1,7 +1,9 @@
-<h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="[https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy-downsized-large.gif](https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp)" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp" width="230">
+<h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="[https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp](https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp))" width="50"></h2>
+<img align='right' src="[https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp](https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp)" width="230">
 <p><em>Software Engineer and Bioinformatician
- 
+
+
+ <iframe src="https://giphy.com/embed/YrTJKOe0FhQJAUXTyp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp">via GIPHY</a></p>
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadMC/)](www.linkedin.com/in/trinidadmartincampos)
 
 ---
