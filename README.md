@@ -1,5 +1,5 @@
 <h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="[[https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp](https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy.gif)](https://konczakowski.tumblr.com/post/162807139541)" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp" width="230">
+<img align='right' src="[https://giphy.com/gifs/dna-research-genetics-YrTJKOe0FhQJAUXTyp](https://konczakowski.tumblr.com/post/162807139541)" width="230">
 
 <p><em>Software Engineer and Bioinformatician
 
