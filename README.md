@@ -22,7 +22,7 @@ A polyglot 👅 engineer with a panoramic perspective and a documented ability t
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![Agile](http://img.shields.io/badge/-Agile-000000?style=for-the-badge&logo=agile)
 
 ### 🤔 About
 - 🌱 Learning more about: **Machine Learning** and **German**
