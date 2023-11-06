@@ -9,7 +9,7 @@ Experienced data scientist with a rich history of 9+ years in the field of data 
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadmartincampos)](https://www.linkedin.com/in/trinidadmartincampos)
 [![Gmail Badge](https://img.shields.io/badge/-trinidadmartinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trinidadmartinc)](mailto:trinidadmartinc)
 
-</br><
+</br>
 ### My skills include
 
 ![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
@@ -22,7 +22,7 @@ Experienced data scientist with a rich history of 9+ years in the field of data 
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 
-/br>
+</br>
 ### 🤔 About
 - 🌱 Learning more about: **Machine Learning** and **German**
 - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
