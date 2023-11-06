@@ -18,11 +18,11 @@ A polyglot 👅 engineer with a panoramic perspective and a documented ability t
 ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
 ![SQL](http://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=blue)
+![Nextflow](http://img.shields.io/badge/-Nextflow-000000?style=for-the-badge&logo=nextflow)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
-![Agile](http://img.shields.io/badge/-Agile-000000?style=for-the-badge&logo=agile)
 
 ### 🤔 About
 - 🌱 Learning more about: **Machine Learning** and **German**
