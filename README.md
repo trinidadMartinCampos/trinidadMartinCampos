@@ -9,7 +9,7 @@
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    Workout 🏊🏻🚴🚴🏻‍♂️🏃🏻‍♀️     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌞 Morning    Workout 🏊🏻🚴🚴🏻‍♂️🏃🏻‍♀️     ███████░░░░░░░░░░░░░░░░░░   100% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
 🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
 🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
@@ -24,6 +24,7 @@
 	<img title="SQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="105" height="40" />
+	<img title="Linux" src="icons/docker.svg" width="105" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
 
