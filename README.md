@@ -1,5 +1,4 @@
-<h2> Hi, I'm Trinidad Martín Campos!✌🏽
-<img src="https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy-downsized-large.gif" width="50"></h2>
+<h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy-downsized-large.gif" width="50"></h2>
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy-downsized-large.gif)" width="230">
 <p><em>Software Engineer and Bioinformatician
  
