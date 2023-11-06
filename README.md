@@ -11,7 +11,7 @@ A polyglot engineer with a panoramic perspective and a documented ability to gui
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadmartincampos)](https://www.linkedin.com/in/trinidadmartincampos)
 [![Gmail Badge](https://img.shields.io/badge/-trinidadmartinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trinidadmartinc)](mailto:trinidadmartinc)
 
-</br></br>
+</br>
 ### My skills include
 
 ![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
