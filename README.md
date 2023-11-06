@@ -18,13 +18,20 @@
 ### My skills include
 
 <p align="left">
-	<img title="NGS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-	<img title="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
+	<img title="R" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="80" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="SQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
+	<img title="SQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Mongo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="Linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="105" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
+
+### Some of the technologies I have worked with-</br>
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+</br></br></br></br>
 
