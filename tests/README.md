@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to fakeittillyoumkeit 💪🏼</h1>
+<h1 align="center">Welcome to fake_it_till_you_make_it 💪🏼</h1>
 
 ## ✨ Idea
 
-`fakeittillyoumkeitt` is the safe space where you can experiment in different languages until you master them
+`fake_it_till_you_make_it` is the safe space where you can experiment in different languages until you master them
 
 ## Author
 
