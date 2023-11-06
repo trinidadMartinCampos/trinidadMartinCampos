@@ -1,7 +1,8 @@
 <h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
 <img align='right' src="icons/giphy.gif" width="230">
 
-#### I'm a Software Engineer and Bioinformatician based in Geneva, 🇨🇭. 
+#### I'm a Software Engineer and Bioinformatician based in Geneva, 🇨🇭
+Experienced data scientist with a rich history of 9+ years in the field of data analysis, spanning both academic and clinical research environments. Adept at crafting and executing ingenious strategies to untangle complexities and tackle intricate issues in clinical data management.
 
 <p><em>
 
@@ -12,6 +13,7 @@
 
 ![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
 ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![SQL](http://img.shields.io/badge/-SQL%20Code-000000?style=for-the-badge&logo=SQL&logoColor=blue)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
@@ -21,7 +23,9 @@
 </br></br></br></br>
 
 ---
-- 🌱 Learning more about and studying: **Machine Learning**
-- 💜 Interests: Foodie and triathlete
+- 🌱 Learning more about and studying: **Machine Learning** and **German**
+- - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
+- ❤️ Interests: Foodie 🍉 | Triathlon 🏊🏻🚴🏻‍♂️🏃🏻‍♀️ | Books 📚 | Music 🎧
 - 😄 Passionate about team spirit
+- -  ❤️: I'm interested in all things data: **Big Data, Cloud and Data Science**
 
