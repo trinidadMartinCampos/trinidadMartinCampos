@@ -17,9 +17,10 @@
 ```
 ### My skills include
 
-![Git](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
-![Git](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
+![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Docker](http://img.shields.io/badge/-Docker%20Code-000000?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
