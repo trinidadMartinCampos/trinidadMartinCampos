@@ -4,7 +4,7 @@
 ### I'm a Software Engineer, Bioinformatician and Triathlete based in Geneva, 🇨🇭
 Experienced data scientist with a rich history of 9+ years in the field of data analysis, spanning both academic and clinical research environments. </br>
 Adept at crafting and executing ingenious strategies to untangle complexities and tackle intricate issues in clinical data management.</br>
-A polyglot 👅 engineer with a panoramic perspective and a documented ability to guide decision-makers toward scientifically grounded choices.
+A polyglot engineer with a panoramic perspective and a documented ability to guide decision-makers toward scientifically grounded choices.
 
 <p><em>
   
@@ -28,4 +28,5 @@ A polyglot 👅 engineer with a panoramic perspective and a documented ability t
 - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
 - ❤️ Interests: Foodie 🍉 | Triathlon 🏊🏻🚴🏻‍♂️🏃🏻‍♀️ | Books 📚 | Music 🎧
 - 😄 Passionate about team spirit 💪🏼
+- 👅 Languages: Spanish, English, French, Itañolo
 
