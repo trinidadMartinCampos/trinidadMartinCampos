@@ -21,10 +21,9 @@ Experienced data scientist with a rich history of 9+ years in the field of data 
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
-
 ---
 ### 🤔 About
-- 🌱 Learning more about and studying: **Machine Learning** and **German**
+- 🌱 Learning more about: **Machine Learning** and **German**
 - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
 - ❤️ Interests: Foodie 🍉 | Triathlon 🏊🏻🚴🏻‍♂️🏃🏻‍♀️ | Books 📚 | Music 🎧
 - 😄 Passionate about team spirit
