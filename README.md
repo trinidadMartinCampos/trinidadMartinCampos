@@ -1,11 +1,12 @@
 <h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
 <img align='right' src="icons/giphy.gif" width="230">
 
-<p><em>Software Engineer and Bioinformatician
+#### I'm a Software Engineer and Bioinformatician based in Geneva, 🇨🇭. 
+
+<p><em>
 
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadmartincampos)](https://www.linkedin.com/in/trinidadmartincampos)
-
----
+[![Gmail Badge](https://img.shields.io/badge/-trinidadmartinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trinidadmartinc)](mailto:trinidadmartinc)
 
 ### My skills include
 
@@ -18,4 +19,9 @@
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
+
+---
+- 🌱 Learning more about and studying: **Machine Learning**
+- 💜 Interests: Foodie and triathlete
+- 😄 Passionate about team spirit
 
