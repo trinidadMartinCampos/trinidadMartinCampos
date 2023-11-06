@@ -1,11 +1,9 @@
-<h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
+<h2> Hi all, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
 <img align='right' src="icons/giphy.gif" width="230">
 
-## I'm a Software Engineer and Bioinformatician based in Geneva, 🇨🇭
+### I'm a Software Engineer and Bioinformatician based in Geneva, 🇨🇭
 Experienced data scientist with a rich history of 9+ years in the field of data analysis, spanning both academic and clinical research environments. Adept at crafting and executing ingenious strategies to untangle complexities and tackle intricate issues in clinical data management.
-
 <p><em>
-
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadmartincampos)](https://www.linkedin.com/in/trinidadmartincampos)
 [![Gmail Badge](https://img.shields.io/badge/-trinidadmartinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trinidadmartinc)](mailto:trinidadmartinc)
 
