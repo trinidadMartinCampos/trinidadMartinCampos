@@ -13,7 +13,7 @@ Experienced data scientist with a rich history of 9+ years in the field of data 
 
 ![R](http://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R)
 ![Python](http://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![SQL](http://img.shields.io/badge/-SQL%20Code-000000?style=for-the-badge&logo=SQL&logoColor=blue)
+![SQL](http://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
@@ -24,8 +24,7 @@ Experienced data scientist with a rich history of 9+ years in the field of data 
 
 ---
 - 🌱 Learning more about and studying: **Machine Learning** and **German**
-- - :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
+- :bulb: I'm interested in all things data: **Big Data, Cloud and Data Science**
 - ❤️ Interests: Foodie 🍉 | Triathlon 🏊🏻🚴🏻‍♂️🏃🏻‍♀️ | Books 📚 | Music 🎧
 - 😄 Passionate about team spirit
-- -  ❤️: I'm interested in all things data: **Big Data, Cloud and Data Science**
 
