@@ -1,6 +1,8 @@
 <h2> Hi, I'm Trinidad Martín Campos!✌🏽<img src="https://media.giphy.com/media/YrTJKOe0FhQJAUXTyp/giphy.gif" width="50"></h2>
 <img align='right' src="https://konczakowski.tumblr.com/post/162807139541" width="230">
 
+![](https://github.com/trinidadMartinCampos/icons/giphy.gif)
+
 <p><em>Software Engineer and Bioinformatician
 
 [![Linkedin: trinidadMC](https://img.shields.io/badge/-trinidadMC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trinidadMC/)](www.linkedin.com/in/trinidadmartincampos)
