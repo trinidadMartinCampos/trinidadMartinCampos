@@ -1,7 +1,7 @@
 <h2> Hi all, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
-<img align='right' src="icons/giphy.gif" width="220">
+<img align='right' src="icons/giphy.gif" width="225">
 
-### I'm a Software Engineer, Bioinformatician and Triathlete based in Geneva, 🇨🇭
+### I'm a Software Engineer, Bioinformatician and Triathlete based in Geneva 🇨🇭
 Experienced data scientist with a rich history of 9+ years in the field of data analysis, spanning both academic and clinical research environments. </br>
 Adept at crafting and executing ingenious strategies to untangle complexities and tackle intricate issues in clinical data management.</br>
 A polyglot engineer with a panoramic perspective and a documented ability to guide decision-makers toward scientifically grounded choices.
