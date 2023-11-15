@@ -1,5 +1,5 @@
 <h2> Hi all, I'm Trinidad Martín Campos!✌🏽<img src="icons/giphy.gif" width="50"></h2>
-<img align='right' src="icons/giphy.gif" width="230">
+<img align='right' src="icons/giphy.gif" width="225">
 
 ### I'm a Software Engineer, Bioinformatician and Triathlete based in Geneva 🇨🇭
 Experienced data scientist with a rich history of 9+ years in the field of data analysis, spanning both academic and clinical research environments. </br>
